@@ -20,10 +20,10 @@
           overflow:hidden;
           background-color:burlywood;}
       nav ul{list-style-type:none;}
-      nav li{width:298px;
+      nav li{width:640px;
              height:38px;
-             margin-left:5px;
-             margin-right:5px;
+             margin-left:10px;
+             margin-right:10px;
              padding:5px;
              line-height:38px;
              float:left;
