@@ -4,24 +4,31 @@
            background-color:ivory;
            background-image:url(images/gold_back.jpg);
            background-repeat:repeat-y;}
+
       /* リセット css*/
       h1,h2,h3,ul,li,p{margin:0;
                       padding:0;}
+
       /* ヘッダー css */
       header{width:640px;
              background-color:bisque;}
+
       h1{margin-left:20px;
          font-size:32px;
          color:crimson;}
+
       header p{margin-left:20px;}
+
       /* ナビゲーション css */
       nav{padding-top:5px;
           padding-bottom:5px;
           overflow:hidden;
           background-color:burlywood;}
+
       nav ul{display: flex;
              list-style-type:none;}
-      nav li{width:185px;
+
+      nav li{  width:185px;
              height:38px;
              
              margin-right:10px;
@@ -30,24 +37,30 @@
              float:left;
              border:solid 1px brown;
              background-color:bisque;}
+
       /* メインコンテンツ css */
       main{clear:both;
-           width:620px;
+           width:630px;
            padding-top:10px;
            padding-bottom:10px;
-           padding-left:20px;
+           padding-left:10px;
            background-color:antiquewhite;
            overflow:hidden;}
+
+
       h2{font-size:24px;
          color:darkred;}
-      .sweets{width:270px;
-              padding:10px;
+
+      .sweets{width:200px;
+              
               margin-top:20px;
-              margin-right:20px;
+              margin-right:10px;
               float:left;
               background-color:burlywood;}
+
       h3{font-size:20px;
          color:brown;}
+
       /* フッター css */
       footer{clear:both;
              width:600px;
