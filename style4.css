@@ -19,7 +19,8 @@
           padding-bottom:5px;
           overflow:hidden;
           background-color:burlywood;}
-      nav ul{list-style-type:none;}
+      nav ul{display: flex;
+             list-style-type:none;}
       nav li{width:640px;
              height:38px;
              margin-left:10px;
