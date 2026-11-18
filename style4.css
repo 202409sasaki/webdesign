@@ -21,7 +21,7 @@
           background-color:burlywood;}
       nav ul{display: flex;
              list-style-type:none;}
-      nav li{width:188px;
+      nav li{width:150px;
              height:38px;
              
              margin-right:10px;
